@@ -78,7 +78,7 @@ $$
 
 Où :
 
-* $z_{t}=\dfrac{\varepsilon_t}{\sigma_t}$, avec $\varepsilon_t=r_t - \mu$ l'innovation 
+* $z_{t}=\dfrac{\varepsilon_t}{\sigma_t}$, avec $\varepsilon_t=r_t - \mu$ l'innovation
 * $\alpha$ : coefficient de *magnitude effect*
 * $\gamma$ : coefficient de *leverage effect* (en général $\gamma < 0$)
 * $\beta$ : coefficient de persistance du modèle
