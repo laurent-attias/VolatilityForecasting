@@ -83,7 +83,7 @@ Où :
 * $\gamma$ : coefficient de *leverage effect* (en général $\gamma < 0$)
 * $\beta$ : coefficient de persistance du modèle
 
-## 🚀 Détails d'Implémentation
+## 🚀 Détails d'implémentation
 
 ### Étape 1 : Téléchargement des Données & Test ADF
 
@@ -120,6 +120,10 @@ $$
 $$
 
 ## 📊 Résultats Empiriques & Métriques
+
+### Comparaison des modèles avec le proxy hors échantillon
+
+![Comparaison des modèles de prévision de la volatilité](output/volatility_forecasting.png)
 
 ### Performance Hors-Échantillon (Out-of-Sample)
 
