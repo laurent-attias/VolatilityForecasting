@@ -150,7 +150,7 @@ $$
 ```bash
 git clone https://github.com/votre-utilisateur/VolatilityGarch.git
 cd VolatilityGarch
-pip install -r requirements.txt
+pip install -r requirements/base.txt
 ```
 
 **Principales bibliothèques utilisées :**
@@ -160,7 +160,3 @@ pip install -r requirements.txt
 * `statsmodels` (Test ADF)
 * `arch` (Modélisation GARCH)
 * `matplotlib`
-
-## 📜 Licence
-
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
